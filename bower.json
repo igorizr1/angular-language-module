@@ -1,0 +1,16 @@
+{
+  "name": "angular-language-module",
+  "main": "angular-language-module.js",
+  "version": "0.0.0",
+  "authors": [
+    "igorizr1@gmail.com"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
